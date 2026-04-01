@@ -2,7 +2,7 @@ from flask import Flask, render_template, request
 import requests
 
 app = Flask(__name__)
-API_KEY = "03206a930a2b595d679a9d5c1393601a"
+API_KEY = "Your_api_key_(weather API)"
 
 def classify(condition):
     c = condition.lower()
