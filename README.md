@@ -49,8 +49,8 @@ Weather-App/
 ### 1️⃣ Clone the repository
 
 ```
-git clone https://github.com/YOUR_USERNAME/weather-app-openweather-flask.git
-cd weather-app-openweather-flask
+git clone https://github.com/Shamitha-2330/api-based-weather-app.git
+cd api-based-weather-app
 ```
 
 ---
